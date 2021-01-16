@@ -1,6 +1,6 @@
 import cv2
 
-CAMERA_ID = 0
+CAMERA_ID= 0
 
 class Camera():
     def __init__(self):
