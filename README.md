@@ -4,7 +4,6 @@ The camera is equipped with couple functions:
 
   * Camera can be rotated by using remote control, so that you can always find the perfect angle effortlessly.
   * The video can be live-monitored all the time everywhere on the world.
-  * It is a plug-and-play system that came with really simple installation, require no GUI.
 
 ## Tools needed
 
