@@ -1,10 +1,10 @@
 # DIY Home security camera system.
 
-* The camera is equipped with couple functions:
+The camera is equipped with couple functions:
 
- ** Camera can be rotated by using remote control, so that you can always find the perfect angle effortlessly.
- ** The video can be live-monitored all the time everywhere on the world.
- ** It is a plug-and-play system that came with really simple installation, require no GUI.
+  * Camera can be rotated by using remote control, so that you can always find the perfect angle effortlessly.
+  * The video can be live-monitored all the time everywhere on the world.
+  * It is a plug-and-play system that came with really simple installation, require no GUI.
 
 ## Tools needed
 
@@ -21,8 +21,8 @@
 *Prepare the hardware:*
 
 * Set up the stepper motors and the IR receiever as in the picture.
-![stepper setup](demo/camera6)
-![ir setup](demo/camera5)
+![stepper setup](demo/camera6.jpg)
+![ir setup](demo/camera5.png)
 **Note that the stepper driver will be plugged into IN ORDER 4,6,5,7 (not 9,10,11,12) as in the picture.**
 * Install [IRremote](https://www.arduino.cc/reference/en/libraries/irremote/)
 * Execute the hardware.ino script with the [Arduino IDE](https://www.arduino.cc/en/Guide/Environment)
@@ -43,6 +43,10 @@
 
 
 After execution, you should see flask server successfully deployed on your public IP.
+
+
+
+**Best part, Enjoy the result!!!**
 
 ![gif](demo/camera5.gif)
 ![gif](demo/camera3.gif)
