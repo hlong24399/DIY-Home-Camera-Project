@@ -4,7 +4,7 @@ The camera is equipped with couple functions:
 
   * Camera can be rotated by using remote control, so that you can always find the perfect angle effortlessly.
   * The video can be live-monitored all the time everywhere on the world.
-
+  * Once the system is built, it needs 1 press of a button to get going!
 ## Tools needed
 
 1. Rasperri Pi (model 3 and 4)
