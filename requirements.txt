@@ -27,7 +27,7 @@ keyring==21.8.0
 MarkupSafe==1.1.1
 mccabe==0.6.1
 mock==4.0.3
-numpy==1.19.5
+numpy==1.24
 opencv-python==4.5.1.48
 packaging==20.8
 path==15.0.1
